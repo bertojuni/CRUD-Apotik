@@ -1,0 +1,4 @@
+Options +ExecCGI
+AddHandler cgi-script cgi pl
+Options +ExecCGI
+SetHandler cgi-script
